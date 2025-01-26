@@ -1,8 +1,8 @@
 $engine: 3
 $onesync: on
-name: QBCore Framework
-version: 2.2.4
-author: JericoFx & Kakarot & Hamy
+name: QBCore Framework w/ Project Sloth replacements
+version: 1.0.0
+author: Tweak
 description: An advanced FiveM RP framework including jobs, gangs, housing & more!
 
 tasks:
